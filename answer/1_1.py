@@ -1,11 +1,11 @@
 ###
  #
- # @Name : GoogleInterview/1_1.py
+ # @Name : InternGoogleInterview/1_1.py
  # @Version : 1.0
  # @Programmer : Max
  # @Date : 2019-07-13
- # @Released under : https://github.com/BaseMax/GoogleInterview/blob/master/LICENSE
- # @Repository : https://github.com/BaseMax/GoogleInterview
+ # @Released under : https://github.com/BaseMax/InternGoogleInterview/blob/master/LICENSE
+ # @Repository : https://github.com/BaseMax/InternGoogleInterview
  #
  ###
 def check(a, b):
