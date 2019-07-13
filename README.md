@@ -2,7 +2,9 @@
 
 ## Google Interview Experience (For Software Engineering Intern)
 
-Remember it was not my interview, But I have this has the chance to attend to design question or analyze in some big company such as EA.
+Remember it was not my interview, But I love to solve it.
+
+I have this has the chance to attend to design question or analyze in some big company such as EA.
 
 ### Round 1: Coding Sample
 
