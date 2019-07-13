@@ -14,6 +14,7 @@ def check(a, b):
 	for i in range(1,1000):
 		if b in (a * i):
 			return i
+	# This does not optimize.
 	return -1
 print( check("abcd", "cdabcdab") ) # 3
 print( check("abcd", "cdabcdabx") ) # -1
