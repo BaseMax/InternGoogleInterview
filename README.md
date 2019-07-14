@@ -17,7 +17,9 @@ In this coding sample, I was given 90 minutes to answer 2 coding questions.
 Given a string A consisting of n characters and a string B consisting of m characters, write a function that will return the number of times A must be stated such that B is a substring of the repeated A. If B can never be a substring, return -1.
 
 Example:
+
 A = ‘abcd’
+
 B = ‘cdabcdab’
 The function should return 3 because after stating A 3 times, getting ‘abcdabcdabcd’, B is now a substring of A.
 
@@ -30,6 +32,7 @@ Consider an undirected tree with N nodes, numbered from 1 to N. Each node has a 
 Example:
 
 A = [1, 1, 1, 2, 2]
+
 E = [1, 2, 1, 3, 2, 4, 2, 5]
 
 This tree is shown below. A node follows the form label, value.
